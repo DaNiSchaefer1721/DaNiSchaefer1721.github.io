@@ -1,5 +1,4 @@
-# DaNiSchaefer1721.github.io
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -29,7 +28,7 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="#about">About Me</a></li>
                         <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
-                                        </ul>
+                                          </ul>
                 </div>
             </div>
         </nav>
@@ -56,7 +55,7 @@
                             and records for a Home Health Company here in Salt Lake City. I am also a student at MIT doing the xPro Program. I am a full time Mother of a wonderful Daughter 
                             who has BIG aspirations of working for NASA. So in trying to show my Daughter that reaching for the stars is possible, I have decided to go for my dream job of becoming a 
                             Software Engineer.
-                                                    </p>
+                        </p>
                     </div>
                 </div>
                 <img class="img-fluid" src="DaNi Photo For MIT Port3.jpg" alt="..." />
@@ -65,7 +64,7 @@
         <!-- Projects-->
         <section class="projects-section bg-light" id="projects">
             <div class="container px-4 px-lg-5">
-        <!-- Featured Project Row-->
+                <!-- Featured Project Row-->
                 <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
                     <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="EyeMovementScreen.jpg" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
@@ -73,25 +72,27 @@
                             <h4>My Favorite Assignment Thus Far...</h4>
                             <p class="text-black-50 mb-0">The Eye Movement Build</p>
                             <p class="text-black-50 mb-0">You can see my code on a ReadMe file on my GitHub Repo Page @ DaNiSchaefer1721.github.io</p>
+                            <li class="nav-item"><a class="nav-link" href="Assignments/Week-8---Eye-Movement/EyeMovement (2).html">Click Here If You Feel Like You Are Being Watched!!</a></li>
                         </div>
                     </div>
                 </div>
-        <!-- Project One Row-->
+                <!-- Project One Row-->
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
                     <div class="col-lg-6"><img class="img-fluid" src="PacManUnsplash.jpg" alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
-                                <div class="project-text w-100 my-auto text-center text-lg-left">
+                                <div class="project-text w-100 my-auto text-center text-lg-left"> 
                                     <h4 class="text-white">PacMan</h4>
                                     <p class="mb-0 text-white-50">You can see my code on a ReadMe file on my GitHub Repo Page @ DaNiSchaefer1721.github.io</p>
+                                    <li class="nav-item"><a class="nav-link" href="Assignments/Week-4---PacMan/index.html">Click Here to Watch PacMan Go!!</a></li>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-        <!-- Project Two Row-->
+                <!-- Project Two Row-->
                 <div class="row gx-0 justify-content-center">
                     <div class="col-lg-6"><img class="img-fluid" src="RealTimeBusTrackerScreen.jpg" alt="..." /></div>
                     <div class="col-lg-6 order-lg-first">
@@ -100,6 +101,7 @@
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 class="text-white">Real Time Bus Tracker</h4>
                                     <p class="mb-0 text-white-50">You can see my code on a ReadMe file on my GitHub Repo Page @ DaNiSchaefer1721.github.io</p>
+                                    <li class="nav-item"><a class="nav-link" href="Assignments/Real Time Bus Tracker/Real Time Bus Tracker Animation Code.html">Click Here to Track the Bus from MIT to Harvard!!</a></li>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -107,7 +109,7 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section>                   
         <!-- Contact-->
         <section class="contact-section bg-black">
             <div class="container px-4 px-lg-5">
@@ -154,7 +156,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
-       
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
     </body>
 </html>
