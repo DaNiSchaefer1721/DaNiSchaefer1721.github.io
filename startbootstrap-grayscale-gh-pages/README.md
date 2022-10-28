@@ -1,7 +1,7 @@
 # DaNiSchaefer1721.github.io
  My Digital Portfolio 
 
-
+<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
